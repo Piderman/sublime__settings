@@ -2,14 +2,21 @@
 	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
 	"draw_white_space": "all",
 	"font_face": "Monaco",
-	"font_size": 11,
+	"font_size": 12,
 	"ignored_packages":
 	[
+		"AdvancedNewFile",
+		"Liquid",
 		"Vintage"
+	],
+	"ignored_words":
+	[
+		"mixin"
 	],
 	"rulers":
 	[
 		120
 	],
-	"scroll_past_end": false
+	"scroll_past_end": false,
+	"spell_check": true
 }

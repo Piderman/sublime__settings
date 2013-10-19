@@ -4,15 +4,10 @@
 	[
 		"AdvancedNewFile",
 		"Emmet",
-		"ExpressionEngine",
-		"jQuery",
-		"LiveReload",
+		"Liquid",
 		"Nettuts+ Fetch",
 		"Package Control",
 		"PlainTasks",
-		"SASS Build",
-		"SCSS",
-		"Theme - Soda",
-		"ZenCoding"
+		"Sass"
 	]
 }
