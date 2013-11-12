@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+// @todo: ${1: future plans} 
+]]></content>
+	<tabTrigger>todo</tabTrigger>
+</snippet>

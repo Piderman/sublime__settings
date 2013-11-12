@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+// @fixme: ${1: needs to work now!} 
+]]></content>
+	<tabTrigger>fixme</tabTrigger>
+</snippet>
