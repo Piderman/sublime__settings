@@ -3,11 +3,19 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"EditorConfig",
 		"Emmet",
-		"Liquid",
+		"ExpressionEngine",
+		"jQuery",
 		"Nettuts+ Fetch",
 		"Package Control",
 		"PlainTasks",
-		"Sass"
+		"Razor",
+		"Sass",
+		"Sublime TFS",
+		"SublimeLinter",
+		"Syntax Highlighting for Sass",
+		"Task",
+		"Theme - Phoenix"
 	]
 }
